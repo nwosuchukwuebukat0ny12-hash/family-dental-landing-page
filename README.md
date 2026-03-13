@@ -1,46 +1,16 @@
-# The Family Dental Clinic - Landing Page Prototype
+# React + Vite
 
-A modern, high-conversion landing page built for "The Family Dental Clinic" in Ibadan. This prototype showcases a premium, clinical yet approachable aesthetic designed to build trust and drive patient appointments.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 🚀 Live Preview
-The project is built with **React** and **Tailwind CSS**.
+Currently, two official plugins are available:
 
-## ✨ Key Features
-- **Dynamic Hero Section**: Immersive fading slideshow of clinical imagery.
-- **Premium Services Grid**: Showcasing key treatments with high-quality visuals and an integrated booking trigger.
-- **Why Choose Us**: Advanced parallax scroll effect with trust pillars (Innovation, Care, Expertise).
-- **Asymmetric "Meet the Doctor"**: A bespoke layout highlighting professional credentials and clinical mission.
-- **Google-Style Reviews**: High-trust carousel with verified patient testimonials and brand indicators.
-- **Established Footer**: Hyper-local contact information (Bodija, Ibadan), 24/7 emergency care, and integrated Google Maps.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## 🛠️ Tech Stack
-- **Framework**: React (Vite)
-- **Styling**: Tailwind CSS
-- **Icons**: Custom SVG icons & Lucide-like patterns
-- **Animations**: CSS Transitions, Framer-motion style fades, and Parallax.
+## React Compiler
 
-## 📦 Getting Started
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-### Prerequisites
-- Node.js (v18+)
-- npm or yarn
+## Expanding the ESLint configuration
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nwosuchukwuebukat0ny12-hash/family-dental-landing-page.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-## 📸 Design Assets
-All images used are high-quality dental lifestyle and clinical photography generated to match the brand's premium identity.
-
----
-© 2026 The Family Dental Clinic. All Rights Reserved.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
