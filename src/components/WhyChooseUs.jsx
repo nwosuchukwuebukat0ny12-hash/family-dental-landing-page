@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion';
 import whyChooseUsBg from '../assets/why-choose-us-bg.webp';
 
 const WhyChooseUs = () => {

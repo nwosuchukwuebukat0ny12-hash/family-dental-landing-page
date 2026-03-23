@@ -1,3 +1,5 @@
+import { motion } from 'framer-motion';
+
 const PageHeader = ({ title, subtitle, bgImage }) => {
   return (
     <div className="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden bg-navy-blue">
