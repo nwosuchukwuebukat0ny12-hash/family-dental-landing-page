@@ -1,4 +1,4 @@
-import doctorPortrait from '../assets/doctor-portrait.png';
+import doctorPortrait from '../assets/doctor-portrait.webp';
 
 const MeetDoctor = () => {
   return (

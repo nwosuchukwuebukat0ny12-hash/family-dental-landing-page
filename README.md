@@ -1,16 +1,31 @@
-# React + Vite
+# Premium Dental Clinic Landing Page (2026)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-performance, conversion-optimized landing page built for local service businesses. Designed as a flagship portfolio piece to demonstrate expertise in **Conversion Rate Optimization (CRO)**, **Technical SEO**, and **Modern Frontend Engineering**.
 
-Currently, two official plugins are available:
+## 🚀 Key Conversion Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 1. Interactive Trust Builders
+- **Interactive "Before & After" Slider:** A draggable comparison tool that provides empirical proof of clinical results, increasing patient confidence.
+- **Dynamic Testimonials Carousel:** Verified patient reviews with Google Business Profile styling to build immediate social proof.
 
-## React Compiler
+### 2. Mobile-First Optimization
+- **Sticky "One-Tap" Booking Bar:** A persistent, thumb-friendly footer for mobile users with instant "Call" and "Book" CTAs.
+- **Progressive Disclosure Layout:** Mobile-optimized sections that reduce cognitive load and prioritize high-intent actions.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 3. Technical SEO & AIO (AI Optimization)
+- **JSON-LD Schema Markup:** Integrated `FAQPage` and `LocalBusiness` structured data to ensure visibility in Google Search, Siri, and Gemini AI.
+- **Performance Focused:** Built with Vite and TailwindCSS for sub-2-second load times and a perfect Core Web Vitals score.
 
-## Expanding the ESLint configuration
+### 4. Service-Oriented UX
+- **Transparent Pricing Tables:** Clearly categorized services with starting prices to handle "cost" objections before they arise.
+- **Specialist Team Profiles:** Dedicated "Our Doctors" section to humanize the brand and establish authority.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React (Vite)**
+- **TailwindCSS**
+- **React Router 6**
+- **JSON-LD (Structured Data)**
+
+---
+
+*This project is part of a premium web design portfolio aimed at landing international local service clients.*

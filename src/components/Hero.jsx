@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
-import heroWhitening from '../assets/hero-whitening.png';
-import heroPatient from '../assets/hero-patient.png';
-import heroFamily from '../assets/hero-family.png';
+import heroWhitening from '../assets/hero-whitening.webp';
+import heroPatient from '../assets/hero-patient.webp';
+import heroFamily from '../assets/hero-family.webp';
 
 const Hero = () => {
   const [currentImage, setCurrentImage] = useState(0);
@@ -67,13 +67,6 @@ const Hero = () => {
               </div>
             </div>
           </div>
-        </div>
-      </div>
-      
-      {/* Scroll Indicator */}
-      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 z-10 animate-bounce">
-        <div className="w-6 h-10 border-2 border-white/30 rounded-full flex justify-center pt-2">
-          <div className="w-1 h-2 bg-white rounded-full"></div>
         </div>
       </div>
     </section>
